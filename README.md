@@ -78,6 +78,3 @@ Create posts, login, explore UI, and test the full flow in real time.
 └── README.md
 
 
-
-## 📂 Folder Structure
-
