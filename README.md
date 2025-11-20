@@ -2,6 +2,13 @@
 A full-stack Blog Application built with **MongoDB, Express.js, React.js, Node.js**, and integrated **AI-powered content tools** for writers.  
 Users can create, edit, delete blog posts, manage user roles, and generate AI-assisted content using modern MERN architecture.
 
+##  Live Demo  
+https://mern-ai-blog-pi.vercel.app/
+
+The full MERN Blog App is now live on Vercel.  
+Create posts, login, explore UI, and test the full flow in real time.
+
+
 ---
 
 ##  Features
